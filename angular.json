@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "GestionIncidencias"
+  "defaultProject": "GestionIncidencias",
+  "cli": {
+    "analytics": "322bedc5-f915-4bf6-a4bc-f39010072089"
+  }
 }
